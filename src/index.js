@@ -8,7 +8,8 @@ const patients = [
   new Patient("Cold", 20, 30),
   new Patient("Multiple sclerosis", 10, 5),
   new Patient("Chronic obstructive pulmonary disease", 5, 40),
-  new Patient("Pancreatic cancer", 15, 40)
+  new Patient("Pancreatic cancer", 15, 40),
+  new Patient("Hepatocellular carcinoma", 15, 30)
 ];
 const trial = new ClinicalTrial(patients);
 
