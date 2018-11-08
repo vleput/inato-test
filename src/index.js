@@ -1,6 +1,7 @@
-import { Patient, ClinicalTrial } from "./trial";
-
 import fs from "fs";
+
+import { Patient, ClinicalTrial } from "./trial";
+import logger from "./utils/logger";
 
 const patients = [
   new Patient("Cold", 20, 30),
@@ -19,21 +20,39 @@ for (let elapsedDays = 0; elapsedDays < 30; elapsedDays++) {
   jsonResult.push(dailyResult);
 }
 
-/* eslint-disable no-console */
+/**
+ * Export result to TXT file
+ */
 fs.writeFile("output/output.txt", result, err => {
   if (err) {
-    console.log("error");
+    logger.log({
+      level: "error",
+      message: err
+    });
   } else {
-    console.log("success");
+    logger.log({
+      level: "info",
+      message:
+        "The result of the clinical trial has been exported to TXT format."
+    });
   }
 });
 
+/**
+ * Export result to JSON file
+ */
 const jsonString = JSON.stringify({ trialResult: jsonResult }, null, 2);
 fs.writeFile("output/output.json", jsonString, err => {
   if (err) {
-    console.log("error");
+    logger.log({
+      level: "error",
+      message: err
+    });
   } else {
-    console.log("success");
+    logger.log({
+      level: "info",
+      message:
+        "The result of the clinical trial has been exported to JSON format."
+    });
   }
 });
-/* eslint-enable no-console */

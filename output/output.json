@@ -1,0 +1,664 @@
+{
+  "trialResult": [
+    [
+      {
+        "disease": "Cold",
+        "surgeryIn": -10,
+        "value": 0
+      },
+      {
+        "disease": "Multiple sclerosis",
+        "surgeryIn": -20,
+        "value": 50
+      },
+      {
+        "disease": "Chronic obstructive pulmonary disease",
+        "surgeryIn": -25,
+        "value": 0
+      },
+      {
+        "disease": "Pancreatic cancer",
+        "surgeryIn": 15,
+        "value": 40
+      }
+    ],
+    [
+      {
+        "disease": "Cold",
+        "surgeryIn": -10,
+        "value": 0
+      },
+      {
+        "disease": "Multiple sclerosis",
+        "surgeryIn": -20,
+        "value": 50
+      },
+      {
+        "disease": "Chronic obstructive pulmonary disease",
+        "surgeryIn": -25,
+        "value": 0
+      },
+      {
+        "disease": "Pancreatic cancer",
+        "surgeryIn": 15,
+        "value": 40
+      }
+    ],
+    [
+      {
+        "disease": "Cold",
+        "surgeryIn": -10,
+        "value": 0
+      },
+      {
+        "disease": "Multiple sclerosis",
+        "surgeryIn": -20,
+        "value": 50
+      },
+      {
+        "disease": "Chronic obstructive pulmonary disease",
+        "surgeryIn": -25,
+        "value": 0
+      },
+      {
+        "disease": "Pancreatic cancer",
+        "surgeryIn": 15,
+        "value": 40
+      }
+    ],
+    [
+      {
+        "disease": "Cold",
+        "surgeryIn": -10,
+        "value": 0
+      },
+      {
+        "disease": "Multiple sclerosis",
+        "surgeryIn": -20,
+        "value": 50
+      },
+      {
+        "disease": "Chronic obstructive pulmonary disease",
+        "surgeryIn": -25,
+        "value": 0
+      },
+      {
+        "disease": "Pancreatic cancer",
+        "surgeryIn": 15,
+        "value": 40
+      }
+    ],
+    [
+      {
+        "disease": "Cold",
+        "surgeryIn": -10,
+        "value": 0
+      },
+      {
+        "disease": "Multiple sclerosis",
+        "surgeryIn": -20,
+        "value": 50
+      },
+      {
+        "disease": "Chronic obstructive pulmonary disease",
+        "surgeryIn": -25,
+        "value": 0
+      },
+      {
+        "disease": "Pancreatic cancer",
+        "surgeryIn": 15,
+        "value": 40
+      }
+    ],
+    [
+      {
+        "disease": "Cold",
+        "surgeryIn": -10,
+        "value": 0
+      },
+      {
+        "disease": "Multiple sclerosis",
+        "surgeryIn": -20,
+        "value": 50
+      },
+      {
+        "disease": "Chronic obstructive pulmonary disease",
+        "surgeryIn": -25,
+        "value": 0
+      },
+      {
+        "disease": "Pancreatic cancer",
+        "surgeryIn": 15,
+        "value": 40
+      }
+    ],
+    [
+      {
+        "disease": "Cold",
+        "surgeryIn": -10,
+        "value": 0
+      },
+      {
+        "disease": "Multiple sclerosis",
+        "surgeryIn": -20,
+        "value": 50
+      },
+      {
+        "disease": "Chronic obstructive pulmonary disease",
+        "surgeryIn": -25,
+        "value": 0
+      },
+      {
+        "disease": "Pancreatic cancer",
+        "surgeryIn": 15,
+        "value": 40
+      }
+    ],
+    [
+      {
+        "disease": "Cold",
+        "surgeryIn": -10,
+        "value": 0
+      },
+      {
+        "disease": "Multiple sclerosis",
+        "surgeryIn": -20,
+        "value": 50
+      },
+      {
+        "disease": "Chronic obstructive pulmonary disease",
+        "surgeryIn": -25,
+        "value": 0
+      },
+      {
+        "disease": "Pancreatic cancer",
+        "surgeryIn": 15,
+        "value": 40
+      }
+    ],
+    [
+      {
+        "disease": "Cold",
+        "surgeryIn": -10,
+        "value": 0
+      },
+      {
+        "disease": "Multiple sclerosis",
+        "surgeryIn": -20,
+        "value": 50
+      },
+      {
+        "disease": "Chronic obstructive pulmonary disease",
+        "surgeryIn": -25,
+        "value": 0
+      },
+      {
+        "disease": "Pancreatic cancer",
+        "surgeryIn": 15,
+        "value": 40
+      }
+    ],
+    [
+      {
+        "disease": "Cold",
+        "surgeryIn": -10,
+        "value": 0
+      },
+      {
+        "disease": "Multiple sclerosis",
+        "surgeryIn": -20,
+        "value": 50
+      },
+      {
+        "disease": "Chronic obstructive pulmonary disease",
+        "surgeryIn": -25,
+        "value": 0
+      },
+      {
+        "disease": "Pancreatic cancer",
+        "surgeryIn": 15,
+        "value": 40
+      }
+    ],
+    [
+      {
+        "disease": "Cold",
+        "surgeryIn": -10,
+        "value": 0
+      },
+      {
+        "disease": "Multiple sclerosis",
+        "surgeryIn": -20,
+        "value": 50
+      },
+      {
+        "disease": "Chronic obstructive pulmonary disease",
+        "surgeryIn": -25,
+        "value": 0
+      },
+      {
+        "disease": "Pancreatic cancer",
+        "surgeryIn": 15,
+        "value": 40
+      }
+    ],
+    [
+      {
+        "disease": "Cold",
+        "surgeryIn": -10,
+        "value": 0
+      },
+      {
+        "disease": "Multiple sclerosis",
+        "surgeryIn": -20,
+        "value": 50
+      },
+      {
+        "disease": "Chronic obstructive pulmonary disease",
+        "surgeryIn": -25,
+        "value": 0
+      },
+      {
+        "disease": "Pancreatic cancer",
+        "surgeryIn": 15,
+        "value": 40
+      }
+    ],
+    [
+      {
+        "disease": "Cold",
+        "surgeryIn": -10,
+        "value": 0
+      },
+      {
+        "disease": "Multiple sclerosis",
+        "surgeryIn": -20,
+        "value": 50
+      },
+      {
+        "disease": "Chronic obstructive pulmonary disease",
+        "surgeryIn": -25,
+        "value": 0
+      },
+      {
+        "disease": "Pancreatic cancer",
+        "surgeryIn": 15,
+        "value": 40
+      }
+    ],
+    [
+      {
+        "disease": "Cold",
+        "surgeryIn": -10,
+        "value": 0
+      },
+      {
+        "disease": "Multiple sclerosis",
+        "surgeryIn": -20,
+        "value": 50
+      },
+      {
+        "disease": "Chronic obstructive pulmonary disease",
+        "surgeryIn": -25,
+        "value": 0
+      },
+      {
+        "disease": "Pancreatic cancer",
+        "surgeryIn": 15,
+        "value": 40
+      }
+    ],
+    [
+      {
+        "disease": "Cold",
+        "surgeryIn": -10,
+        "value": 0
+      },
+      {
+        "disease": "Multiple sclerosis",
+        "surgeryIn": -20,
+        "value": 50
+      },
+      {
+        "disease": "Chronic obstructive pulmonary disease",
+        "surgeryIn": -25,
+        "value": 0
+      },
+      {
+        "disease": "Pancreatic cancer",
+        "surgeryIn": 15,
+        "value": 40
+      }
+    ],
+    [
+      {
+        "disease": "Cold",
+        "surgeryIn": -10,
+        "value": 0
+      },
+      {
+        "disease": "Multiple sclerosis",
+        "surgeryIn": -20,
+        "value": 50
+      },
+      {
+        "disease": "Chronic obstructive pulmonary disease",
+        "surgeryIn": -25,
+        "value": 0
+      },
+      {
+        "disease": "Pancreatic cancer",
+        "surgeryIn": 15,
+        "value": 40
+      }
+    ],
+    [
+      {
+        "disease": "Cold",
+        "surgeryIn": -10,
+        "value": 0
+      },
+      {
+        "disease": "Multiple sclerosis",
+        "surgeryIn": -20,
+        "value": 50
+      },
+      {
+        "disease": "Chronic obstructive pulmonary disease",
+        "surgeryIn": -25,
+        "value": 0
+      },
+      {
+        "disease": "Pancreatic cancer",
+        "surgeryIn": 15,
+        "value": 40
+      }
+    ],
+    [
+      {
+        "disease": "Cold",
+        "surgeryIn": -10,
+        "value": 0
+      },
+      {
+        "disease": "Multiple sclerosis",
+        "surgeryIn": -20,
+        "value": 50
+      },
+      {
+        "disease": "Chronic obstructive pulmonary disease",
+        "surgeryIn": -25,
+        "value": 0
+      },
+      {
+        "disease": "Pancreatic cancer",
+        "surgeryIn": 15,
+        "value": 40
+      }
+    ],
+    [
+      {
+        "disease": "Cold",
+        "surgeryIn": -10,
+        "value": 0
+      },
+      {
+        "disease": "Multiple sclerosis",
+        "surgeryIn": -20,
+        "value": 50
+      },
+      {
+        "disease": "Chronic obstructive pulmonary disease",
+        "surgeryIn": -25,
+        "value": 0
+      },
+      {
+        "disease": "Pancreatic cancer",
+        "surgeryIn": 15,
+        "value": 40
+      }
+    ],
+    [
+      {
+        "disease": "Cold",
+        "surgeryIn": -10,
+        "value": 0
+      },
+      {
+        "disease": "Multiple sclerosis",
+        "surgeryIn": -20,
+        "value": 50
+      },
+      {
+        "disease": "Chronic obstructive pulmonary disease",
+        "surgeryIn": -25,
+        "value": 0
+      },
+      {
+        "disease": "Pancreatic cancer",
+        "surgeryIn": 15,
+        "value": 40
+      }
+    ],
+    [
+      {
+        "disease": "Cold",
+        "surgeryIn": -10,
+        "value": 0
+      },
+      {
+        "disease": "Multiple sclerosis",
+        "surgeryIn": -20,
+        "value": 50
+      },
+      {
+        "disease": "Chronic obstructive pulmonary disease",
+        "surgeryIn": -25,
+        "value": 0
+      },
+      {
+        "disease": "Pancreatic cancer",
+        "surgeryIn": 15,
+        "value": 40
+      }
+    ],
+    [
+      {
+        "disease": "Cold",
+        "surgeryIn": -10,
+        "value": 0
+      },
+      {
+        "disease": "Multiple sclerosis",
+        "surgeryIn": -20,
+        "value": 50
+      },
+      {
+        "disease": "Chronic obstructive pulmonary disease",
+        "surgeryIn": -25,
+        "value": 0
+      },
+      {
+        "disease": "Pancreatic cancer",
+        "surgeryIn": 15,
+        "value": 40
+      }
+    ],
+    [
+      {
+        "disease": "Cold",
+        "surgeryIn": -10,
+        "value": 0
+      },
+      {
+        "disease": "Multiple sclerosis",
+        "surgeryIn": -20,
+        "value": 50
+      },
+      {
+        "disease": "Chronic obstructive pulmonary disease",
+        "surgeryIn": -25,
+        "value": 0
+      },
+      {
+        "disease": "Pancreatic cancer",
+        "surgeryIn": 15,
+        "value": 40
+      }
+    ],
+    [
+      {
+        "disease": "Cold",
+        "surgeryIn": -10,
+        "value": 0
+      },
+      {
+        "disease": "Multiple sclerosis",
+        "surgeryIn": -20,
+        "value": 50
+      },
+      {
+        "disease": "Chronic obstructive pulmonary disease",
+        "surgeryIn": -25,
+        "value": 0
+      },
+      {
+        "disease": "Pancreatic cancer",
+        "surgeryIn": 15,
+        "value": 40
+      }
+    ],
+    [
+      {
+        "disease": "Cold",
+        "surgeryIn": -10,
+        "value": 0
+      },
+      {
+        "disease": "Multiple sclerosis",
+        "surgeryIn": -20,
+        "value": 50
+      },
+      {
+        "disease": "Chronic obstructive pulmonary disease",
+        "surgeryIn": -25,
+        "value": 0
+      },
+      {
+        "disease": "Pancreatic cancer",
+        "surgeryIn": 15,
+        "value": 40
+      }
+    ],
+    [
+      {
+        "disease": "Cold",
+        "surgeryIn": -10,
+        "value": 0
+      },
+      {
+        "disease": "Multiple sclerosis",
+        "surgeryIn": -20,
+        "value": 50
+      },
+      {
+        "disease": "Chronic obstructive pulmonary disease",
+        "surgeryIn": -25,
+        "value": 0
+      },
+      {
+        "disease": "Pancreatic cancer",
+        "surgeryIn": 15,
+        "value": 40
+      }
+    ],
+    [
+      {
+        "disease": "Cold",
+        "surgeryIn": -10,
+        "value": 0
+      },
+      {
+        "disease": "Multiple sclerosis",
+        "surgeryIn": -20,
+        "value": 50
+      },
+      {
+        "disease": "Chronic obstructive pulmonary disease",
+        "surgeryIn": -25,
+        "value": 0
+      },
+      {
+        "disease": "Pancreatic cancer",
+        "surgeryIn": 15,
+        "value": 40
+      }
+    ],
+    [
+      {
+        "disease": "Cold",
+        "surgeryIn": -10,
+        "value": 0
+      },
+      {
+        "disease": "Multiple sclerosis",
+        "surgeryIn": -20,
+        "value": 50
+      },
+      {
+        "disease": "Chronic obstructive pulmonary disease",
+        "surgeryIn": -25,
+        "value": 0
+      },
+      {
+        "disease": "Pancreatic cancer",
+        "surgeryIn": 15,
+        "value": 40
+      }
+    ],
+    [
+      {
+        "disease": "Cold",
+        "surgeryIn": -10,
+        "value": 0
+      },
+      {
+        "disease": "Multiple sclerosis",
+        "surgeryIn": -20,
+        "value": 50
+      },
+      {
+        "disease": "Chronic obstructive pulmonary disease",
+        "surgeryIn": -25,
+        "value": 0
+      },
+      {
+        "disease": "Pancreatic cancer",
+        "surgeryIn": 15,
+        "value": 40
+      }
+    ],
+    [
+      {
+        "disease": "Cold",
+        "surgeryIn": -10,
+        "value": 0
+      },
+      {
+        "disease": "Multiple sclerosis",
+        "surgeryIn": -20,
+        "value": 50
+      },
+      {
+        "disease": "Chronic obstructive pulmonary disease",
+        "surgeryIn": -25,
+        "value": 0
+      },
+      {
+        "disease": "Pancreatic cancer",
+        "surgeryIn": 15,
+        "value": 40
+      }
+    ]
+  ]
+}
