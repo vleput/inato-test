@@ -10,14 +10,26 @@ const patients = [
 ];
 const trial = new ClinicalTrial(patients);
 
-const log = [];
+const result = [];
+const jsonResult = [];
 
 for (let elapsedDays = 0; elapsedDays < 30; elapsedDays++) {
-  log.push(JSON.stringify(trial.updateValue()));
+  const dailyResult = trial.updateValue();
+  result.push(JSON.stringify(dailyResult));
+  jsonResult.push(dailyResult);
 }
 
 /* eslint-disable no-console */
-fs.writeFile("output/output.txt", log, err => {
+fs.writeFile("output/output.txt", result, err => {
+  if (err) {
+    console.log("error");
+  } else {
+    console.log("success");
+  }
+});
+
+const jsonString = JSON.stringify({ trialResult: jsonResult }, null, 2);
+fs.writeFile("output/output.json", jsonString, err => {
   if (err) {
     console.log("error");
   } else {
