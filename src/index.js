@@ -1,6 +1,7 @@
 import fs from "fs";
 
-import { Patient, ClinicalTrial } from "./trial";
+import { Patient } from "./models/patient";
+import { ClinicalTrial } from "./trial";
 import logger from "./utils/logger";
 
 const patients = [
