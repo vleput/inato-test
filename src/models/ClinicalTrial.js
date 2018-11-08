@@ -1,4 +1,4 @@
-import { Diseases } from "./diseases";
+import { Diseases } from "../handlers/diseases";
 
 export class ClinicalTrial {
   constructor(patients = []) {

@@ -1,5 +1,5 @@
-import { Patient } from "../src/models/patient";
-import { ClinicalTrial } from "../src/trial";
+import { Patient } from "../src/models/Patient";
+import { ClinicalTrial } from "../src/models/ClinicalTrial";
 
 describe("ClinicalTrial", () => {
   it("All patients - should never have a negative value", () => {
