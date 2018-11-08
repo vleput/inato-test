@@ -95,4 +95,28 @@ describe("ClinicalTrial", () => {
       ]).updateValue()
     ).toEqual([new Patient("Chronic obstructive pulmonary disease", -1, 0)]);
   });
+
+  it("Hepatocellular carcinoma patients - should decrease value twice as fast as regular patient before surgery", () => {
+    expect(
+      new ClinicalTrial([
+        new Patient("Hepatocellular carcinoma", 0, 43)
+      ]).updateValue()
+    ).toEqual([new Patient("Hepatocellular carcinoma", -1, 41)]);
+  });
+
+  it("Hepatocellular carcinoma patients - should decrease value twice as fast as regular patient after surgery", () => {
+    expect(
+      new ClinicalTrial([
+        new Patient("Hepatocellular carcinoma", -1, 41)
+      ]).updateValue()
+    ).toEqual([new Patient("Hepatocellular carcinoma", -2, 37)]);
+  });
+
+  it("Hepatocellular carcinoma patients - should never decrease value below 0", () => {
+    expect(
+      new ClinicalTrial([
+        new Patient("Hepatocellular carcinoma", -1, 2)
+      ]).updateValue()
+    ).toEqual([new Patient("Hepatocellular carcinoma", -2, 0)]);
+  });
 });

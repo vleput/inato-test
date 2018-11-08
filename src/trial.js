@@ -27,6 +27,8 @@ export class ClinicalTrial {
         return Diseases.handlePancreaticCancer(patient);
       case "Chronic obstructive pulmonary disease":
         return Diseases.handleChronicObstructivePulmonary(patient);
+      case "Hepatocellular carcinoma":
+        return Diseases.handleHepatocellularCarcinoma(patient);
       default:
         return Diseases.handleRegularPatient(patient);
     }

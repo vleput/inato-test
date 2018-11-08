@@ -36,6 +36,19 @@ const handleChronicObstructivePulmonary = patient => {
 };
 
 /**
+ * Handler for a patient with disease "Hepatocellular carcinoma"
+ */
+const handleHepatocellularCarcinoma = patient => {
+  if (patient.surgeryIn >= 0) {
+    patient.value -= 2;
+  } else {
+    patient.value -= 4;
+  }
+  patient.surgeryIn--;
+  return patient;
+};
+
+/**
  * Handler for all other patients
  */
 const handleRegularPatient = patient => {
@@ -53,6 +66,7 @@ module.exports = {
     handleMultipleSclerosis,
     handlePancreaticCancer,
     handleChronicObstructivePulmonary,
+    handleHepatocellularCarcinoma,
     handleRegularPatient
   }
 };
