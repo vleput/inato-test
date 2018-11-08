@@ -16,9 +16,9 @@ const result = [];
 const jsonResult = [];
 
 for (let elapsedDays = 0; elapsedDays < 30; elapsedDays++) {
-  const dailyResult = trial.updateValue();
-  result.push(JSON.stringify(dailyResult));
-  jsonResult.push(dailyResult);
+  const dailyResult = JSON.stringify(trial.updateValue());
+  result.push(dailyResult);
+  jsonResult.push(JSON.parse(dailyResult));
 }
 
 /**
