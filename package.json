@@ -10,6 +10,17 @@
     "test": "jest",
     "start": "babel-node src/index.js"
   },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.js": [
+      "yarn run lint",
+      "jest --bail --findRelatedTests"
+    ]
+  },
   "devDependencies": {
     "@babel/cli": "^7.1.0",
     "@babel/core": "^7.1.0",
@@ -21,7 +32,9 @@
     "eslint": "^5.6.0",
     "eslint-config-prettier": "^3.1.0",
     "eslint-plugin-prettier": "^2.6.2",
+    "husky": "^1.1.3",
     "jest": "^23.6.0",
+    "lint-staged": "^8.0.4",
     "prettier": "^1.14.3",
     "regenerator-runtime": "^0.12.1"
   }
