@@ -1,4 +1,4 @@
-import { Patient, ClinicalTrial } from "./trial";
+import { Patient, ClinicalTrial } from "../src/trial";
 
 describe("ClinicalTrial", () => {
   it("should decrease value and surgeryIn", () => {
