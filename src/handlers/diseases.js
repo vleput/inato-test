@@ -2,7 +2,7 @@
  * Handler for a patient with disease "Multiple sclerosis"
  */
 const handleMultipleSclerosis = patient => {
-  if (patient.surgeryIn >= 0) {
+  if (patient.surgeryIn > 0) {
     patient.value++;
   } else {
     patient.value += 2;
@@ -39,7 +39,7 @@ const handleChronicObstructivePulmonary = patient => {
  * Handler for a patient with disease "Hepatocellular carcinoma"
  */
 const handleHepatocellularCarcinoma = patient => {
-  if (patient.surgeryIn >= 0) {
+  if (patient.surgeryIn > 0) {
     patient.value -= 2;
   } else {
     patient.value -= 4;
@@ -52,7 +52,7 @@ const handleHepatocellularCarcinoma = patient => {
  * Handler for all other patients
  */
 const handleRegularPatient = patient => {
-  if (patient.surgeryIn >= 0) {
+  if (patient.surgeryIn > 0) {
     patient.value--;
   } else {
     patient.value -= 2;
